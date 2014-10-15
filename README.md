@@ -1,3 +1,21 @@
+# BIOMD0000000199: testid
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000199.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000199.git@20140916`
+
+
+# Model Notes
 This is a model of neuronal Nitric Oxide Synthase expressed in Escherichia
 coli based on [Santolini J. et al. J Biol Chem. (2001) 276(2):1233-43](http://
 www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&li
@@ -21,4 +39,5 @@ Shapiro B., Snoep J.L., Hucka M. (2006) BioModels Database: A Free,
 Centralized Database of Curated, Published, Quantitative Kinetic Models of
 Biochemical and Cellular Systems Nucleic Acids Res., 34: D689-D691.](http://ww
 w.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=16381960)
+
 
